@@ -1,0 +1,10 @@
+Pandas
+Scikit-Learn
+Tensorflow
+Numpy
+Streamlit
+Keras
+Models
+Layers
+Sequential
+Dense
